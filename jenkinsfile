@@ -27,6 +27,7 @@ pipeline {
                steps{
                echo 'Hello lalitha!'
                }
+               }
 
         }  
 
